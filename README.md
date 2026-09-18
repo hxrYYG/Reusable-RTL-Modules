@@ -4,7 +4,7 @@
 
 ## 文件解释
 
-- 以 up_counter 为例：
+- 以 up_counter 这个文件为例：
     - doc：存放与模块相关的解释文档，仿真结果图片等信息
     - rtl：存放模块设计文件
     - sim：存放 testbench 测试代码

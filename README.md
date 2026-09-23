@@ -13,4 +13,5 @@
 ## 📂 目录 (Table of Contents)
 
 1. [递增计数器](up_counter/README.md)
+2. [递减计数器](down_counter/README.md)
 

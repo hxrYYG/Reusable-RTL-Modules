@@ -14,4 +14,5 @@
 
 1. [递增计数器](up_counter/README.md)
 2. [递减计数器](down_counter/README.md)
+3. [序列检测器](sequence_detector_fsm/README.md)
 

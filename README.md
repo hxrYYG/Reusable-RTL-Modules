@@ -16,4 +16,4 @@
 2. [递减计数器](down_counter/README.md)
 3. [序列检测器](sequence_detector_fsm/README.md)
 4. [UART 控制器](uart_controller/README.md)
-
+5. [边沿检测模块](edge_detect/README.md)
